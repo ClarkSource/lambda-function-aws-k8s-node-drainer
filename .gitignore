@@ -5,3 +5,5 @@
 htmlcov
 packaged.yaml
 __pycache__
+vendor
+requirements.txt
